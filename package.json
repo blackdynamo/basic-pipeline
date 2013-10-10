@@ -1,0 +1,35 @@
+{
+    "name": "basic-pipeline",
+    "version": "0.1.0",
+    "description": "",
+    "author": "Donnovan Lewis",
+    "license": "MIT",
+    "keywords": [
+        "simple",
+        "pipeline",
+        "workflow",
+        "sequence",
+        "pipe",
+        "async",
+        "series",
+        "execution",
+        "tasks"
+    ],
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/blackdynamo/basic-pipeline.git"
+    },
+    "bugs": {
+        "url": "https://github.com/blackdynamo/basic-pipeline/issues"
+    },
+    "scripts": {
+        "prepublish": "npm prune"
+    },
+    "dependencies": {},
+    "devDependencies": {},
+    "optionalDependencies": {},
+    "engines": {
+        "node": "*"
+    }
+}
