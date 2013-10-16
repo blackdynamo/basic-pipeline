@@ -1,6 +1,6 @@
 # basic-pipeline
 
-    A basic pipeline module for node
+A basic pipeline module for node
 
 ## Installation
 
