@@ -1,8 +1,8 @@
 {
     "name": "basic-pipeline",
-    "version": "0.1.0",
-    "description": "",
-    "author": "Donnovan Lewis",
+    "version": "0.1.1",
+    "description": "A basic pipeline module for node",
+    "author": "Donnovan Lewis <d16345401@gmail.com>",
     "license": "MIT",
     "keywords": [
         "simple",
