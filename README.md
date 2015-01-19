@@ -1,10 +1,14 @@
 # basic-pipeline
 
-A basic pipeline module for node
+A basic pipeline module for node and the web
 
 ## Installation
 
+### NPM
     $ npm install basic-pipeline --save
+
+### Bower
+    $ bower install basic-pipeline --save
     
 ## Usage
 
