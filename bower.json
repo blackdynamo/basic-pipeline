@@ -1,0 +1,34 @@
+{
+  "name": "basic-pipeline",
+  "description": "A basic pipeline module for node and the web",
+  "main": "index.js",
+  "version": "0.1.4",
+  "homepage": "https://github.com/blackdynamo/basic-pipeline",
+  "authors": [
+    "Donnovan Lewis <d16345401@gmail.com>"
+  ],
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "simple",
+    "pipeline",
+    "workflow",
+    "sequence",
+    "pipe",
+    "async",
+    "series",
+    "execution",
+    "tasks"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

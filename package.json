@@ -1,35 +1,37 @@
 {
-    "name": "basic-pipeline",
-    "version": "0.1.3",
-    "description": "A basic pipeline module for node",
-    "author": "Donnovan Lewis <d16345401@gmail.com>",
-    "license": "MIT",
-    "keywords": [
-        "simple",
-        "pipeline",
-        "workflow",
-        "sequence",
-        "pipe",
-        "async",
-        "series",
-        "execution",
-        "tasks"
-    ],
-    "main": "index.js",
-    "repository": {
-        "type": "git",
-        "url": "git://github.com/blackdynamo/basic-pipeline.git"
-    },
-    "bugs": {
-        "url": "https://github.com/blackdynamo/basic-pipeline/issues"
-    },
-    "scripts": {
-        "prepublish": "npm prune"
-    },
-    "dependencies": {},
-    "devDependencies": {},
-    "optionalDependencies": {},
-    "engines": {
-        "node": "*"
-    }
+  "name": "basic-pipeline",
+  "version": "0.1.4",
+  "description": "A basic pipeline module for node and the web",
+  "author": "Donnovan Lewis <d16345401@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "simple",
+    "pipeline",
+    "workflow",
+    "sequence",
+    "pipe",
+    "async",
+    "series",
+    "execution",
+    "tasks"
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/blackdynamo/basic-pipeline.git"
+  },
+  "bugs": {
+    "url": "https://github.com/blackdynamo/basic-pipeline/issues"
+  },
+  "scripts": {
+    "prepublish": "npm prune"
+  },
+  "dependencies": {
+    "bower": "^1.3.12"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
 }
